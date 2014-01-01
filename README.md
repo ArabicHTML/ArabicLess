@@ -1,4 +1,5 @@
-ArabicLess
+Arabic Less Framework
 ==========
 
-Arabic reset and Variables and Mixins For Less
+Arabic Framework
+reset and Variables and Mixins For Less
