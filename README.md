@@ -1,3 +1,6 @@
+<style>
+#readme .markdown-body{text-align:right;}
+</style>
 Arabic Less Framework
 ==========
 
