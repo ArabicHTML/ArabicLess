@@ -1,6 +1,3 @@
-<style>
-#readme .markdown-body{text-align:right;}
-</style>
 Arabic Less Framework
 ==========
 
@@ -9,7 +6,7 @@ reset and Variables and Mixins For Less</h3>
 
 <h5>هي عبارة عن مكتبة لتسهيل العمل يوجد بها اختصارات كثيرة للمبرمج للعمل على قالب عربي كامل و انشاء مل</h5>
 
-<h2 style="text-align:right;">الخطوات الاساسية</h2>
+<h2>الخطوات الاساسية</h2>
 
 <h3><a href="http://arabic-html.com" target="_blank">شرح كامل للمكتبة في الموقع<a></h3>
 
