@@ -31,7 +31,7 @@ reset and Variables and Mixins For Less</h3>
     <li>.clearfix();</li>
     <li>.imgSize();</li>
   </ul>
-
+ 
 <h2>variables اهم</h2>
   <ul>
     <li>@color: "your color option";</li>
