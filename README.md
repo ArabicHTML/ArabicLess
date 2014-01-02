@@ -4,7 +4,7 @@ Arabic Less Framework
 <h3>Arabic Framework
 reset and Variables and Mixins For Less</h3>
 
-<div style="text-align:right;">
+
 <h5>هي عبارة عن مكتبة لتسهيل العمل يوجد بها اختصارات كثيرة للمبرمج للعمل على قالب عربي كامل و انشاء مل</h5>
 
 <h2>الخطوات الاساسية</h2>
@@ -19,5 +19,18 @@ reset and Variables and Mixins For Less</h3>
 <p>و في اعلى الصفحة يكتب style.cssداخل ملف</p>
 <p>@import "arabic.less"</p>
 
-</div>
+<h2>mixin اهم</h2>
 
+.arabic-html();
+.arabic-fonts();
+.container(@width: 1024px);
+.btn();
+.hide();
+.clearfix();
+.imgSize();
+
+<h2>variables اهم</h2>
+
+@color: "your color option";
+@tablet;
+@mobile;
