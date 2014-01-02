@@ -17,7 +17,7 @@ reset and Variables and Mixins For Less</h3>
 </ul>
 
 <h2>تفعيل الملف</h2>
-<p>و في اعلى الصفحة يكتب style.cssداخل ملف</p>
+<p>و في اعلى الصفحة يكتب style.less داخل ملف</p>
 <p>@import "arabic.less"</p>
 
 <h2>mixin اهم</h2>
