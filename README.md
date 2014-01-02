@@ -9,6 +9,8 @@ reset and Variables and Mixins For Less</h3>
 
 <h2>الخطوات الاساسية</h2>
 
+<h3><a href="http://arabic-html.com" target="_blank">شرح كامل للمكتبة<a></h3>
+
 <ul>
   <li>تحميل الملف و فك الضفط</li>
   <li>css في الفولدر ال arabic.less وضع الملف الخاص ب </li>
