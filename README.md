@@ -11,4 +11,10 @@ reset and Variables and Mixins For Less</h3>
 <ul>
   <li>تحميل الملف و فك الضفط</li>
   <li>css في الفولدر ال arabic.less وضع الملف الخاص ب </li>
+  <li>style.less وليكون css عمل ملف جديد داخل فولدر</li>
 </ul>
+
+<h2>تفعيل الملف</h2>
+<p>و في اعلى الصفحة يكتب style.cssداخل ملف</p>
+<p>@import "arabic.less"</p>
+
