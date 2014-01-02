@@ -9,7 +9,7 @@ reset and Variables and Mixins For Less</h3>
 
 <h2>الخطوات الاساسية</h2>
 
-<h3><a href="http://arabic-html.com" target="_blank">شرح كامل للمكتبة<a></h3>
+<h3><a href="http://arabic-html.com" target="_blank">شرح كامل للمكتبة في الموقع<a></h3>
 
 <ul>
   <li>تحميل الملف و فك الضفط</li>
