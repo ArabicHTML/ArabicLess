@@ -21,16 +21,19 @@ reset and Variables and Mixins For Less</h3>
 
 <h2>mixin اهم</h2>
 
-.arabic-html();
-.arabic-fonts();
-.container(@width: 1024px);
-.btn();
-.hide();
-.clearfix();
-.imgSize();
+  <ul>
+    <li>.arabic-html();</li>
+    <li>.arabic-fonts();</li>
+    <li>.container(@width: 1024px);
+    <li>.btn();</li>
+    <li>.hide();</li>
+    <li>.clearfix();</li>
+    <li>.imgSize();</li>
+  </ul>
 
 <h2>variables اهم</h2>
-
-@color: "your color option";
-@tablet;
-@mobile;
+  <ul>
+    <li>@color: "your color option";</li>
+    <li>@tablet;</li>
+    <li>@mobile;</li>
+  </ul>
