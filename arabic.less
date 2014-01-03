@@ -37,6 +37,8 @@
 	@greenYellow: greenyellow;
 	@olive: olive;
 
+	@color: "black";
+
 // ============================= Variables media ===============================//
 
 	@tablet:   ~"only screen and (max-width: 768px)";
@@ -119,7 +121,7 @@
 .textShadow (@shadow: 1px 1px 0 rgba(0, 0, 0, 0.50)) {
 	text-shadow: @shadow;
 }
-.boxShadow (@shadow) {
+.boxShadow (@shadow: 1px 1px 0 rgba(0, 0, 0, 0.50)) {
 	-webkit-box-shadow: @shadow;
 	-moz-box-shadow:    @shadow;
 	box-shadow:         @shadow;
