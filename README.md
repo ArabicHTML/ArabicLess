@@ -20,6 +20,8 @@ reset and Variables and Mixins For Less</h3>
 <p>و في اعلى الصفحة يكتب style.less داخل ملف</p>
 <p>@import "arabic.less"</p>
 
+<h2><a href="http://arabic-html.com/?p=2149">شاهد الفيديو</a></h2>
+
 <h2>mixin اهم</h2>
 
   <ul>
